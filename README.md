@@ -8,6 +8,6 @@ https://www.kaggle.com/datasets/maryam1212/money-laundering-data
 As a result we found out that random forest is the best model with an accuracy of 97% 
 
 
-the contibuters to this repo are: HIND MOUTALATTIF/ KHAOULA JERRARI/ HAJAR ZAINI
+The contibuters to this repo are: Hind MOUTALATTIF & Khaoula JERRARI & Hajar ZAINI
 
-link to the repository: https://github.com/khaoula789/money_laundering_detection
+Link to the repository: https://github.com/khaoula789/money_laundering_detection

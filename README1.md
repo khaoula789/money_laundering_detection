@@ -8,4 +8,5 @@ the contibuters to this repo are:
 HIND MOUTALATTIF
 KHAOULA JERRARI
 HAJAR ZAINI
+
 link to the repository: https://github.com/khaoula789/money_laundering_detection

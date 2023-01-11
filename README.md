@@ -6,7 +6,4 @@ The purpose of this repo is to develop, describe and validate a machine learning
 
 The model is applied to a large data set :  https://www.kaggle.com/datasets/maryam1212/money-laundering-data
 
-the contibuters to this repo are: 
-HIND MOUTALATTIF
-KHAOULA JERRARI
-HAJAR ZAINI
+the contibuters to this repository are: HIND MOUTALATTIF & KHAOULA JERRARI & HAJAR ZAINI
